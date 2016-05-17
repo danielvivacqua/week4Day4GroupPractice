@@ -1,0 +1,12 @@
+100
+90
+100
+90
+100
+90
+100
+90
+100
+90
+The sum of the scores is 950
+The average of all of the scores is 95
